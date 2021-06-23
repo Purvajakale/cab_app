@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "673674476492",
+    "project_id": "cab-app-5f857",
+    "storage_bucket": "cab-app-5f857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673674476492:android:079a3e2e25e84face93b69",
+        "android_client_info": {
+          "package_name": "com.purvajakale.cab_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673674476492-5gpbm8qd4r78eptm5m6a5hielm47btdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiRRODw2cWNAG5hxVVxvC8_ADcLvl2CHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673674476492-5gpbm8qd4r78eptm5m6a5hielm47btdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
